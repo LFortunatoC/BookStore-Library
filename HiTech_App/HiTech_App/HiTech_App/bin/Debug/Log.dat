@@ -1,0 +1,615 @@
+﻿Login - 2018-10-08 6:35:17 PM: 0001
+Login - 2018-10-08 6:39:14 PM: 0001
+Added User - 2018-10-08 6:42:20 PM: New User Id: 0003,UserLevel: SALES_MANAGER,Added by: 0001
+Added User - 2018-10-08 6:42:56 PM: New User Id: 0004,UserLevel: CONTROLLER,Added by: 0001
+Login - 2018-10-08 7:10:12 PM: 0003
+Login - 2018-10-08 7:10:35 PM: 0001
+Added User - 2018-10-08 7:12:24 PM, New User Id: 0005,UserLevel: CLERK, Added by: 0001
+Login - 2018-10-08 7:12:51 PM: 0005
+Login - 2018-10-08 7:19:50 PM: 0001
+Logout - 2018-10-08 7:20:22 PM, User Id: 0001
+Login - 2018-10-08 7:20:37 PM: 0005
+Logout - 2018-10-08 7:20:54 PM, User Id: 0005
+Login - 2018-10-08 7:23:38 PM, User Id: 0003
+Password Changed  - 2018-10-08 7:25:05 PM, User ID: 0003
+Login - 2018-10-08 7:25:36 PM, User Id: 0003
+Password Changed  - 2018-10-08 7:25:47 PM, User ID: 0003
+Logout - 2018-10-08 7:26:41 PM, User Id: 0003
+Login - 2018-10-08 7:28:22 PM, User Id: 0003
+Login - 2018-10-08 7:59:28 PM, User Id: 0001
+Login - 2018-10-08 8:02:26 PM, User Id: 0004
+Login - 2018-10-08 8:02:37 PM, User Id: 0001
+Password Reset- 2018-10-08 8:05:03 PM, User Id: 0004,Reset by: 0001
+Login - 2018-10-08 8:05:29 PM, User Id: 0004
+Login - 2018-10-08 8:05:43 PM, User Id: 0004
+Password Changed  - 2018-10-08 8:06:13 PM, User ID: 0004
+Logout - 2018-10-08 8:06:29 PM, User Id: 0004
+Login - 2018-10-08 8:20:47 PM, User Id: 0003
+Password Changed  - 2018-10-08 8:21:13 PM, User ID: 0003
+Login - 2018-10-08 8:22:19 PM, User Id: 0001
+Password Reset- 2018-10-08 8:22:46 PM,User Id: 0004,Reset by: 0001
+Login - 2018-10-08 8:23:06 PM, User Id: 0004
+Password Changed  - 2018-10-08 8:23:28 PM, User ID: 0004
+Login - 2018-10-08 8:24:02 PM, User Id: 0005
+Password Changed  - 2018-10-08 8:24:12 PM, User ID: 0005
+Logout - 2018-10-08 8:24:34 PM, User Id: 0005
+Login - 2018-10-08 8:24:43 PM, User Id: 0001
+Password Reset- 2018-10-08 8:24:57 PM,User Id: 0005,Reset by: 0001
+Login - 2018-10-08 8:30:12 PM, User Id: 0001
+User Removed- 2018-10-08 8:35:21 PM, Removed User Id: 0005, Removed by: 0001
+Login - 2018-10-08 8:51:02 PM, User Id: 0001
+Login - 2018-11-04 10:13:19 PM, User Id: 0001
+Login - 2018-11-04 10:13:55 PM, User Id: 0001
+Login - 2018-11-04 10:15:12 PM, User Id: 0001
+Login - 2018-11-04 10:15:41 PM, User Id: 0001
+Login - 2018-11-04 10:17:42 PM, User Id: 0001
+Login - 2018-11-04 10:18:20 PM, User Id: 0001
+Login - 2018-11-04 10:19:13 PM, User Id: 0001
+Login - 2018-11-06 11:06:04 PM, User Id: 0001
+Login - 2018-11-06 11:07:57 PM, User Id: 0001
+Login - 2018-11-06 11:13:02 PM, User Id: 0001
+Login - 2018-11-06 11:25:28 PM, User Id: 0001
+Login - 2018-11-06 11:26:53 PM, User Id: 0001
+Login - 2018-11-06 11:37:04 PM, User Id: 0001
+Login - 2018-11-06 11:44:24 PM, User Id: 0001
+Login - 2018-11-06 11:46:54 PM, User Id: 0001
+Login - 2018-11-06 11:52:27 PM, User Id: 0001
+Login - 2018-11-06 11:56:09 PM, User Id: 0001
+Login - 2018-11-07 7:37:19 AM, User Id: 0001
+Login - 2018-11-07 7:38:28 AM, User Id: 0001
+Login - 2018-11-07 8:04:21 AM, User Id: 0001
+Login - 2018-11-07 8:53:12 AM, User Id: 0001
+Login - 2018-11-07 8:59:34 AM, User Id: 0001
+Login - 2018-11-07 9:02:36 AM, User Id: 0001
+Login - 2018-11-07 9:06:25 AM, User Id: 0001
+Login - 2018-11-07 9:11:49 AM, User Id: 0001
+Login - 2018-11-07 9:14:44 AM, User Id: 0001
+Login - 2018-11-07 9:15:54 AM, User Id: 0001
+Login - 2018-11-07 2:27:42 PM, User Id: 0001
+Login - 2018-11-07 2:28:52 PM, User Id: 0001
+Login - 2018-11-07 2:54:27 PM, User Id: 0001
+Login - 2018-11-07 3:01:13 PM, User Id: 0001
+Login - 2018-11-07 3:05:55 PM, User Id: 0001
+Login - 2018-11-07 3:08:48 PM, User Id: 0001
+Login - 2018-11-07 3:12:17 PM, User Id: 0001
+Login - 2018-11-07 3:13:50 PM, User Id: 0001
+Login - 2018-11-07 3:18:19 PM, User Id: 0001
+Login - 2018-11-07 3:25:00 PM, User Id: 0001
+Login - 2018-11-07 3:30:18 PM, User Id: 0001
+Login - 2018-11-07 3:35:23 PM, User Id: 0001
+Login - 2018-11-07 3:36:27 PM, User Id: 0001
+Login - 2018-11-07 3:40:52 PM, User Id: 0001
+Login - 2018-11-07 3:43:32 PM, User Id: 0001
+Login - 2018-11-07 3:46:45 PM, User Id: 0001
+Login - 2018-11-07 3:49:13 PM, User Id: 0001
+Login - 2018-11-07 3:55:11 PM, User Id: 0001
+Login - 2018-11-07 3:57:32 PM, User Id: 0001
+Login - 2018-11-07 4:04:03 PM, User Id: 0001
+Login - 2018-11-07 4:14:20 PM, User Id: 0001
+Login - 2018-11-07 4:18:57 PM, User Id: 0001
+Login - 2018-11-07 4:19:52 PM, User Id: 0001
+Login - 2018-11-07 4:20:40 PM, User Id: 0001
+Login - 2018-11-07 4:27:22 PM, User Id: 0001
+Login - 2018-11-07 4:33:32 PM, User Id: 0001
+Login - 2018-11-07 4:39:40 PM, User Id: 0001
+Login - 2018-11-07 5:08:15 PM, User Id: 0001
+Login - 2018-11-07 5:13:23 PM, User Id: 0001
+Login - 2018-11-07 5:15:24 PM, User Id: 0001
+Login - 2018-11-07 5:24:03 PM, User Id: 0001
+Login - 2018-11-07 5:31:44 PM, User Id: 0001
+Login - 2018-11-07 9:18:24 PM, User Id: 0001
+Login - 2018-11-07 9:25:13 PM, User Id: 0001
+Login - 2018-11-07 9:27:49 PM, User Id: 0001
+Login - 2018-11-07 10:08:36 PM, User Id: 0010
+Login - 2018-11-08 9:45:19 PM, User Id: 0010
+Login - 2018-11-08 9:48:10 PM, User Id: 0010
+Added User - 2018-11-08 9:50:35 PM, New User Id: MB01,UserLevel: CONTROLLER, Added by: 0010
+Login - 2018-11-08 9:56:10 PM, User Id: 0010
+Login - 2018-11-08 9:58:24 PM, User Id: 0010
+Login - 2018-11-08 9:59:15 PM, User Id: 0010
+Login - 2018-11-08 10:00:17 PM, User Id: 0010
+Login - 2018-11-08 10:02:52 PM, User Id: 0010
+Login - 2018-11-08 10:07:33 PM, User Id: 0010
+Login - 2018-11-08 10:22:58 PM, User Id: 0010
+Login - 2018-11-08 10:25:50 PM, User Id: 0010
+Added User - 2018-11-08 10:27:32 PM, New User Id: KL01,UserLevel: CLERK, Added by: 0010
+Login - 2018-11-08 10:28:25 PM, User Id: KL01
+Login - 2018-11-08 10:37:26 PM, User Id: 0010
+Login - 2018-11-08 10:41:13 PM, User Id: 0010
+Login - 2018-11-08 10:49:39 PM, User Id: 0010
+Login - 2018-11-08 10:54:15 PM, User Id: 0010
+Added User - 2018-11-08 10:54:35 PM, New User Id: KL02,UserLevel: CONTROLLER, Added by: 0010
+Login - 2018-11-08 10:56:04 PM, User Id: KL02
+Login - 2018-11-08 10:57:35 PM, User Id: 0010
+User Removed- 2018-11-08 10:58:30 PM, Removed User Id: KL02, Removed by: 0010
+Login - 2018-11-08 11:09:32 PM, User Id: 0010
+Added User - 2018-11-08 11:09:49 PM, New User Id: KL02,UserLevel: CLERK, Added by: 0010
+Login - 2018-11-08 11:10:16 PM, User Id: KL02
+Login - 2018-11-08 11:10:44 PM, User Id: KL02
+Login - 2018-11-08 11:10:56 PM, User Id: 0010
+Password Reset- 2018-11-08 11:11:07 PM,User Id: KL02,Reset by: 0010
+Login - 2018-11-08 11:11:40 PM, User Id: KL02
+Login - 2018-11-08 11:12:54 PM, User Id: 0010
+Password Reset- 2018-11-08 11:13:52 PM,User Id: KL02,Reset by: 0010
+Login - 2018-11-10 8:00:57 PM, User Id: 0010
+Login - 2018-11-10 8:03:34 PM, User Id: 0010
+Password Reset- 2018-11-10 8:04:24 PM,User Id: KL02,Reset by: 0010
+User Removed- 2018-11-10 8:05:14 PM, Removed User Id: KL02, Removed by: 0010
+Added User - 2018-11-10 8:05:40 PM, New User Id: KL03,UserLevel: MIS_MANAGER, Added by: 0010
+Added User - 2018-11-10 8:06:10 PM, New User Id: ZL03,UserLevel: CONTROLLER, Added by: 0010
+Login - 2018-11-10 8:19:28 PM, User Id: 0010
+Password Reset- 2018-11-10 8:20:17 PM,User Id: ZL03,Reset by: 0010
+Added User - 2018-11-10 8:20:43 PM, New User Id: KA01,UserLevel: SALES_MANAGER, Added by: 0010
+User Removed- 2018-11-10 8:21:10 PM, Removed User Id: ZL03, Removed by: 0010
+Login - 2018-11-10 8:40:55 PM, User Id: 0010
+Login - 2018-11-10 8:44:39 PM, User Id: 0010
+Login - 2018-11-10 8:48:41 PM, User Id: 0010
+Login - 2018-11-10 8:50:28 PM, User Id: 0010
+Login - 2018-11-10 8:52:05 PM, User Id: 0010
+Added User - 2018-11-10 8:52:59 PM, New User Id: ZORE,UserLevel: CLERK, Added by: 0010
+Login - 2018-11-10 8:54:58 PM, User Id: 0010
+Login - 2018-11-10 9:09:31 PM, User Id: 0010
+Login - 2018-11-10 9:15:13 PM, User Id: 0010
+Login - 2018-11-10 9:16:08 PM, User Id: 0010
+Login - 2018-11-10 9:16:34 PM, User Id: 0010
+Login - 2018-11-10 10:42:08 PM, User Id: 0010
+Login - 2018-11-10 11:53:23 PM, User Id: 0010
+Login - 2018-11-10 11:54:23 PM, User Id: 0010
+Login - 2018-11-10 11:56:10 PM, User Id: 0010
+Login - 2018-11-10 11:57:57 PM, User Id: 0010
+Login - 2018-11-10 11:58:50 PM, User Id: 0010
+Login - 2018-11-11 12:12:20 AM, User Id: 0010
+Login - 2018-11-11 12:14:58 AM, User Id: 0010
+Login - 2018-11-11 12:17:10 AM, User Id: 0010
+Login - 2018-11-11 12:18:03 AM, User Id: 0010
+Login - 2018-11-11 12:20:32 AM, User Id: 0010
+Login - 2018-11-11 12:24:59 AM, User Id: 0010
+Login - 2018-11-11 12:26:04 AM, User Id: 0010
+Login - 2018-11-11 12:26:46 AM, User Id: 0010
+Login - 2018-11-11 10:22:24 PM, User Id: 0010
+Login - 2018-11-11 10:25:39 PM, User Id: 0010
+Login - 2018-11-11 10:39:44 PM, User Id: 0010
+Login - 2018-11-11 10:52:40 PM, User Id: 0010
+Login - 2018-11-12 9:59:05 AM, User Id: 0010
+Login - 2018-11-12 10:02:00 AM, User Id: 0010
+Login - 2018-11-12 10:03:08 AM, User Id: 0010
+Login - 2018-11-12 10:06:33 AM, User Id: 0010
+Login - 2018-11-12 10:15:19 AM, User Id: 0010
+Login - 2018-11-12 10:22:05 AM, User Id: 0010
+Login - 2018-11-12 10:26:28 AM, User Id: 0010
+Login - 2018-11-12 10:28:29 AM, User Id: 0010
+Login - 2018-11-12 10:30:07 AM, User Id: 0010
+Login - 2018-11-12 10:31:25 AM, User Id: 0010
+Login - 2018-11-12 10:39:25 AM, User Id: 0010
+Login - 2018-11-12 10:02:27 PM, User Id: 0010
+Login - 2018-11-12 10:03:43 PM, User Id: 0010
+Login - 2018-11-12 10:04:46 PM, User Id: 0010
+Login - 2018-11-12 10:15:17 PM, User Id: 0010
+Login - 2018-11-12 10:20:35 PM, User Id: 0010
+Login - 2018-11-14 10:30:31 PM, User Id: 0010
+Login - 2018-11-14 10:36:03 PM, User Id: 0010
+Login - 2018-11-14 10:37:31 PM, User Id: 0010
+Login - 2018-11-14 10:38:22 PM, User Id: 0010
+Login - 2018-11-14 10:48:19 PM, User Id: 0010
+Login - 2018-11-15 9:02:11 PM, User Id: 0010
+Login - 2018-11-15 9:05:27 PM, User Id: 0010
+Login - 2018-11-15 9:15:30 PM, User Id: 0010
+Login - 2018-11-15 9:17:14 PM, User Id: 0010
+Login - 2018-11-15 9:24:25 PM, User Id: 0010
+Login - 2018-11-15 9:29:30 PM, User Id: 0010
+Login - 2018-11-15 9:33:55 PM, User Id: 0010
+Login - 2018-11-15 9:37:20 PM, User Id: 0010
+Login - 2018-11-15 9:39:18 PM, User Id: 0010
+Login - 2018-11-15 9:44:30 PM, User Id: 0010
+Login - 2018-11-16 10:41:40 AM, User Id: 0010
+Login - 2018-11-17 4:25:41 PM, User Id: 0010
+Login - 2018-11-17 4:38:59 PM, User Id: 0010
+Login - 2018-11-17 4:58:20 PM, User Id: 0010
+Login - 2018-11-17 4:59:03 PM, User Id: 0010
+Login - 2018-11-17 5:01:31 PM, User Id: 0010
+Login - 2018-11-17 5:05:28 PM, User Id: 0010
+Login - 2018-11-17 5:08:47 PM, User Id: 0010
+Login - 2018-11-17 5:35:02 PM, User Id: 0010
+Login - 2018-11-17 5:39:41 PM, User Id: 0010
+Login - 2018-11-17 5:53:57 PM, User Id: 0010
+Login - 2018-11-17 5:57:24 PM, User Id: 0010
+Login - 2018-11-17 5:59:23 PM, User Id: 0010
+Login - 2018-11-17 6:00:43 PM, User Id: 0010
+Login - 2018-11-17 6:25:24 PM, User Id: 0010
+Login - 2018-11-17 6:30:43 PM, User Id: 0010
+Login - 2018-11-17 6:32:28 PM, User Id: 0010
+Login - 2018-11-17 6:33:37 PM, User Id: 0010
+Login - 2018-11-17 6:39:22 PM, User Id: 0010
+Login - 2018-11-17 6:41:13 PM, User Id: 0010
+Login - 2018-11-17 6:43:02 PM, User Id: 0010
+Login - 2018-11-17 6:48:44 PM, User Id: 0010
+Login - 2018-11-17 6:51:03 PM, User Id: 0010
+Login - 2018-11-17 6:55:40 PM, User Id: 0010
+Login - 2018-11-17 6:55:54 PM, User Id: 0010
+Login - 2018-11-17 7:18:12 PM, User Id: 0010
+Login - 2018-11-18 4:49:02 PM, User Id: 0010
+Login - 2018-11-18 4:50:20 PM, User Id: 0010
+Login - 2018-11-18 4:53:38 PM, User Id: 0010
+Login - 2018-11-18 5:04:03 PM, User Id: 0010
+Login - 2018-11-18 5:05:14 PM, User Id: 0010
+Login - 2018-11-18 5:08:47 PM, User Id: 0010
+Login - 2018-11-18 5:17:56 PM, User Id: 0010
+Login - 2018-11-18 5:25:31 PM, User Id: 0010
+Login - 2018-11-18 5:27:39 PM, User Id: 0010
+Login - 2018-11-18 5:29:33 PM, User Id: 0010
+Login - 2018-11-18 5:30:43 PM, User Id: 0010
+Login - 2018-11-18 5:36:36 PM, User Id: 0010
+Login - 2018-11-18 5:39:13 PM, User Id: 0010
+Login - 2018-11-18 5:49:43 PM, User Id: 0010
+Login - 2018-11-18 5:55:17 PM, User Id: 0010
+Login - 2018-11-18 6:08:35 PM, User Id: 0010
+Login - 2018-11-18 7:09:42 PM, User Id: 0010
+Login - 2018-11-18 7:18:01 PM, User Id: 0010
+Login - 2018-11-18 7:19:32 PM, User Id: 0010
+Login - 2018-11-18 7:23:30 PM, User Id: 0010
+Login - 2018-11-18 7:27:18 PM, User Id: 0010
+Login - 2018-11-18 7:28:34 PM, User Id: 0010
+Login - 2018-11-19 10:14:11 AM, User Id: 0010
+Login - 2018-11-19 10:20:14 AM, User Id: 0010
+Login - 2018-11-19 10:23:27 AM, User Id: 0010
+Login - 2018-11-19 10:30:16 AM, User Id: 0010
+Login - 2018-11-19 10:37:53 AM, User Id: 0010
+Login - 2018-11-19 10:41:57 AM, User Id: 0010
+Login - 2018-11-19 10:43:04 AM, User Id: 0010
+Login - 2018-11-19 10:51:08 AM, User Id: 0010
+Login - 2018-11-19 5:54:09 PM, User Id: 0010
+Login - 2018-11-19 5:55:54 PM, User Id: 0010
+Login - 2018-11-19 6:22:49 PM, User Id: 0010
+Login - 2018-11-19 6:24:19 PM, User Id: 0010
+Login - 2018-11-19 6:32:12 PM, User Id: 0010
+Login - 2018-11-19 6:47:43 PM, User Id: 0010
+Login - 2018-11-19 6:50:55 PM, User Id: 0010
+Login - 2018-11-19 6:57:17 PM, User Id: 0010
+Login - 2018-11-19 7:04:13 PM, User Id: 0010
+Login - 2018-11-19 7:44:16 PM, User Id: 0010
+Login - 2018-11-19 8:00:16 PM, User Id: 0010
+Login - 2018-11-19 8:03:36 PM, User Id: 0010
+Login - 2018-11-19 8:07:03 PM, User Id: 0010
+Login - 2018-11-19 8:08:32 PM, User Id: 0010
+Login - 2018-11-19 8:11:21 PM, User Id: 0010
+Login - 2018-11-19 8:45:52 PM, User Id: 0010
+Login - 2018-11-19 8:50:59 PM, User Id: 0010
+Login - 2018-11-19 8:51:48 PM, User Id: 0010
+Login - 2018-11-19 9:02:38 PM, User Id: 0010
+Login - 2018-11-19 9:03:31 PM, User Id: 0010
+Login - 2018-11-19 9:09:24 PM, User Id: 0010
+Login - 2018-11-19 9:10:55 PM, User Id: 0010
+Login - 2018-11-19 9:15:59 PM, User Id: 0010
+Login - 2018-11-19 9:17:26 PM, User Id: 0010
+Login - 2018-11-19 9:18:42 PM, User Id: 0010
+Login - 2018-11-19 9:22:04 PM, User Id: 0010
+Login - 2018-11-19 9:38:01 PM, User Id: 0010
+Login - 2018-11-19 9:41:53 PM, User Id: 0010
+Login - 2018-11-19 10:17:05 PM, User Id: 0010
+Login - 2018-11-19 10:17:08 PM, User Id: 0010
+Login - 2018-11-19 10:17:12 PM, User Id: 0010
+Login - 2018-11-19 10:17:14 PM, User Id: 0010
+Login - 2018-11-19 10:19:49 PM, User Id: MB01
+Login - 2018-11-19 10:20:16 PM, User Id: MB01
+Login - 2018-11-19 10:21:01 PM, User Id: MB01
+Login - 2018-11-19 10:22:36 PM, User Id: 0010
+Login - 2018-11-19 10:22:41 PM, User Id: MB01
+Login - 2018-11-19 10:24:15 PM, User Id: MB01
+Login - 2018-11-19 10:33:33 PM, User Id: MB01
+Login - 2018-11-19 10:34:08 PM, User Id: KL03
+Login - 2018-11-19 10:34:48 PM, User Id: KA01
+Login - 2018-11-19 10:36:07 PM, User Id: ZORE
+Login - 2018-11-20 9:19:50 PM, User Id: ZORE
+Login - 2018-11-20 9:20:46 PM, User Id: KL03
+Login - 2018-11-20 9:21:08 PM, User Id: KA01
+Login - 2018-11-20 10:05:02 PM, User Id: ZORE
+Login - 2018-11-20 10:09:56 PM, User Id: KA01
+Login - 2018-11-20 10:10:21 PM, User Id: KA01
+Login - 2018-11-20 10:10:54 PM, User Id: ZORE
+Login - 2018-11-20 10:13:56 PM, User Id: ZORE
+Login - 2018-11-20 10:17:42 PM, User Id: ZORE
+Login - 2018-11-20 10:24:01 PM, User Id: ZORE
+Login - 2018-11-20 10:25:05 PM, User Id: ZORE
+Login - 2018-11-20 10:29:08 PM, User Id: ZORE
+Login - 2018-11-20 10:31:16 PM, User Id: ZORE
+Login - 2018-11-20 10:33:30 PM, User Id: ZORE
+Login - 2018-11-20 10:37:21 PM, User Id: ZORE
+Login - 2018-11-20 10:41:55 PM, User Id: ZORE
+Login - 2018-11-20 10:43:21 PM, User Id: ZORE
+Login - 2018-11-21 10:38:04 PM, User Id: ZORE
+Login - 2018-11-21 10:44:36 PM, User Id: ZORE
+Login - 2018-11-21 10:50:05 PM, User Id: ZORE
+Login - 2018-11-21 10:54:41 PM, User Id: ZORE
+Login - 2018-11-21 11:01:03 PM, User Id: ZORE
+Login - 2018-11-22 10:11:46 PM, User Id: KA01
+Login - 2018-11-22 10:12:28 PM, User Id: MB01
+Login - 2018-11-22 10:15:53 PM, User Id: MB01
+Login - 2018-11-22 10:27:44 PM, User Id: MB01
+Login - 2018-11-22 10:35:45 PM, User Id: MB01
+Login - 2018-11-22 10:37:06 PM, User Id: MB01
+Login - 2018-11-22 10:45:43 PM, User Id: MB01
+Login - 2018-11-22 10:46:55 PM, User Id: MB01
+Login - 2018-11-24 8:53:03 AM, User Id: KL03
+Login - 2018-11-24 8:53:35 AM, User Id: KA01
+Login - 2018-11-24 8:53:53 AM, User Id: MB01
+Login - 2018-11-24 8:55:29 AM, User Id: MB01
+Login - 2018-11-24 8:57:04 AM, User Id: MB01
+Login - 2018-11-24 8:58:36 AM, User Id: MB01
+Login - 2018-11-24 8:59:16 AM, User Id: MB01
+Login - 2018-11-24 9:03:56 AM, User Id: MB01
+Login - 2018-11-24 9:16:24 AM, User Id: MB01
+Login - 2018-11-24 9:18:35 AM, User Id: MB01
+Login - 2018-11-24 9:19:15 AM, User Id: MB01
+Login - 2018-11-24 9:22:32 AM, User Id: MB01
+Login - 2018-11-24 9:23:07 AM, User Id: MB01
+Login - 2018-11-24 9:54:19 AM, User Id: MB01
+Login - 2018-11-24 9:58:57 AM, User Id: MB01
+Login - 2018-11-24 10:13:25 AM, User Id: MB01
+Login - 2018-11-24 10:19:43 AM, User Id: MB01
+Login - 2018-11-24 10:35:20 AM, User Id: MB01
+Login - 2018-11-24 10:44:09 AM, User Id: MB01
+Login - 2018-11-24 10:56:28 AM, User Id: MB01
+Login - 2018-11-24 10:57:03 AM, User Id: MB01
+Login - 2018-11-24 12:29:32 PM, User Id: MB01
+Password Changed  - 2018-11-24 12:29:32 PM, User ID: MB01
+Logout - 2018-11-24 12:29:34 PM, User Id: MB01
+Login - 2018-11-24 12:30:01 PM, User Id: MB01
+Login - 2018-11-24 12:37:03 PM, User Id: MB01
+Password Changed  - 2018-11-24 12:37:03 PM, User ID: MB01
+Logout - 2018-11-24 12:37:05 PM, User Id: MB01
+Login - 2018-11-24 12:37:20 PM, User Id: MB01
+Login - 2018-11-24 12:39:09 PM, User Id: MB01
+Password Changed  - 2018-11-24 12:39:09 PM, User ID: MB01
+Logout - 2018-11-24 12:39:12 PM, User Id: MB01
+Login - 2018-11-24 1:12:42 PM, User Id: MB01
+Login - 2018-11-24 3:02:26 PM, User Id: KL03
+Logout - 2018-11-24 3:02:35 PM, User Id: KL03
+Login - 2018-11-24 3:03:51 PM, User Id: KL03
+Logout - 2018-11-24 3:03:55 PM, User Id: KL03
+Login - 2018-11-24 3:06:58 PM, User Id: KL03
+Logout - 2018-11-24 3:07:03 PM, User Id: KL03
+Login - 2018-11-24 3:07:48 PM, User Id: KL03
+Login - 2018-11-24 3:09:34 PM, User Id: KL03
+Login - 2018-11-24 3:12:21 PM, User Id: KL03
+Logout - 2018-11-24 3:12:26 PM, User Id: KL03
+Login - 2018-11-24 3:13:16 PM, User Id: KL03
+Login - 2018-11-24 3:38:45 PM, User Id: MB01
+Login - 2018-11-24 3:39:42 PM, User Id: KL03
+Logout - 2018-11-24 3:39:49 PM, User Id: KL03
+Login - 2018-11-24 4:04:11 PM, User Id: MB01
+Login - 2018-11-24 4:04:51 PM, User Id: KL03
+Logout - 2018-11-24 4:04:55 PM, User Id: KL03
+Login - 2018-11-24 4:05:06 PM, User Id: KL03
+Login - 2018-11-24 4:05:21 PM, User Id: KL03
+Login - 2018-11-24 4:08:48 PM, User Id: KL03
+Login - 2018-11-24 4:11:39 PM, User Id: KL03
+Login - 2018-11-24 4:17:46 PM, User Id: KA01
+Logout - 2018-11-24 4:18:18 PM, User Id: KA01
+Login - 2018-11-24 4:23:52 PM, User Id: MB01
+Logout - 2018-11-24 4:24:26 PM, User Id: MB01
+Login - 2018-11-24 4:25:35 PM, User Id: MB01
+Logout - 2018-11-24 4:25:49 PM, User Id: MB01
+Login - 2018-11-24 4:33:47 PM, User Id: ZORE
+Login - 2018-11-24 4:34:01 PM, User Id: ZORE
+Login - 2018-11-24 4:35:00 PM, User Id: ZORE
+Login - 2018-11-24 4:37:21 PM, User Id: ZORE
+Logout - 2018-11-24 4:38:12 PM, User Id: ZORE
+Login - 2018-11-24 4:38:34 PM, User Id: ZORE
+Login - 2018-11-24 4:41:40 PM, User Id: ZORE
+Logout - 2018-11-24 4:42:00 PM, User Id: ZORE
+Login - 2018-11-24 4:43:02 PM, User Id: ZORE
+Login - 2018-11-24 4:54:23 PM, User Id: KA01
+Login - 2018-11-24 4:55:45 PM, User Id: MB01
+Login - 2018-11-24 4:57:18 PM, User Id: KA01
+Login - 2018-11-24 4:57:49 PM, User Id: MB01
+Login - 2018-11-24 4:59:27 PM, User Id: MB01
+Login - 2018-11-24 5:00:07 PM, User Id: MB01
+Login - 2018-11-24 5:06:47 PM, User Id: KL03
+Login - 2018-11-24 5:09:19 PM, User Id: ZORE
+Login - 2018-11-24 5:10:17 PM, User Id: KL03
+Login - 2018-11-24 5:10:30 PM, User Id: MB01
+Logout - 2018-11-24 5:10:33 PM, User Id: MB01
+Login - 2018-11-24 5:10:53 PM, User Id: KL03
+Login - 2018-11-24 5:11:16 PM, User Id: MB01
+Logout - 2018-11-24 5:11:19 PM, User Id: MB01
+Login - 2018-11-24 5:11:39 PM, User Id: KA01
+Login - 2018-11-24 9:50:28 PM, User Id: KL03
+Added User - 2018-11-24 9:52:49 PM, New User Id: Fortuna,UserLevel: MIS_MANAGER, Added by: KL03
+User Removed- 2018-11-24 9:57:02 PM, Removed User Id: Fortuna, Removed by: KL03
+Login - 2018-11-24 9:59:44 PM, User Id: MB01
+Login - 2018-11-24 10:00:11 PM, User Id: KL03
+Login - 2018-11-24 10:02:35 PM, User Id: KL03
+Added User - 2018-11-24 10:04:10 PM, New User Id: Elka,UserLevel: SALES_MANAGER, Added by: KL03
+Logout - 2018-11-24 10:04:30 PM, User Id: KL03
+Login - 2018-11-24 10:05:04 PM, User Id: MB01
+Login - 2018-11-24 10:06:15 PM, User Id: KL03
+Password Reset- 2018-11-24 10:06:32 PM,User Id: Elka,Reset by: KL03
+Logout - 2018-11-24 10:06:39 PM, User Id: KL03
+Login - 2018-11-24 10:06:48 PM, User Id: Elka
+Logout - 2018-11-24 10:06:57 PM, User Id: Elka
+Login - 2018-11-24 10:07:03 PM, User Id: KL03
+Added User - 2018-11-24 10:08:57 PM, New User Id: Fortuna,UserLevel: CLERK, Added by: KL03
+Logout - 2018-11-24 10:09:07 PM, User Id: KL03
+Login - 2018-11-24 10:09:12 PM, User Id: Fortuna
+Logout - 2018-11-24 10:09:21 PM, User Id: Fortuna
+Login - 2018-11-24 10:09:30 PM, User Id: KL03
+User Removed- 2018-11-24 10:10:00 PM, Removed User Id: Fortuna, Removed by: KL03
+Logout - 2018-11-24 10:10:13 PM, User Id: KL03
+Login - 2018-11-24 10:10:25 PM, User Id: KL03
+Login - 2018-11-24 10:13:32 PM, User Id: MB01
+Logout - 2018-11-24 10:13:38 PM, User Id: MB01
+Login - 2018-11-24 10:13:45 PM, User Id: KL03
+User Removed- 2018-11-24 10:14:33 PM, Removed User Id: Elka, Removed by: KL03
+Login - 2018-11-24 10:40:20 PM, User Id: KA01
+Logout - 2018-11-24 10:42:51 PM, User Id: KA01
+Login - 2018-11-24 10:43:07 PM, User Id: ZORE
+Login - 2018-11-24 10:45:28 PM, User Id: ZORE
+Login - 2018-11-24 11:22:44 PM, User Id: ZORE
+Logout - 2018-11-24 11:25:27 PM, User Id: ZORE
+Login - 2018-11-24 11:26:55 PM, User Id: KL03
+Logout - 2018-11-24 11:27:03 PM, User Id: KL03
+Login - 2018-11-24 11:27:08 PM, User Id: MB01
+Logout - 2018-11-24 11:27:16 PM, User Id: MB01
+Login - 2018-11-24 11:27:22 PM, User Id: KA01
+Login - 2018-11-24 11:32:21 PM, User Id: KA01
+Logout - 2018-11-24 11:33:53 PM, User Id: KA01
+Login - 2018-11-24 11:34:01 PM, User Id: ZORE
+Login - 2018-11-27 7:41:55 AM, User Id: ZORE
+Login - 2018-11-27 7:42:33 AM, User Id: ZORE
+Login - 2018-11-27 7:43:22 AM, User Id: ZORE
+Login - 2018-11-27 7:45:55 AM, User Id: ZORE
+Login - 2018-11-27 7:54:59 AM, User Id: KL03
+Login - 2018-11-27 7:55:13 AM, User Id: ZORE
+Login - 2018-11-27 7:57:32 AM, User Id: ZORE
+Login - 2018-11-27 7:59:37 AM, User Id: ZORE
+Login - 2018-11-27 8:24:01 AM, User Id: ZORE
+Login - 2018-11-27 8:24:15 AM, User Id: KL03
+Login - 2018-11-27 8:24:26 AM, User Id: MB01
+Logout - 2018-11-27 8:28:55 AM, User Id: MB01
+Login - 2018-11-27 8:28:59 AM, User Id: ZORE
+Login - 2018-11-27 8:31:22 AM, User Id: MB01
+Logout - 2018-11-27 8:32:51 AM, User Id: MB01
+Login - 2018-11-27 8:32:57 AM, User Id: ZORE
+Logout - 2018-11-27 8:33:26 AM, User Id: ZORE
+Login - 2018-11-27 8:33:31 AM, User Id: MB01
+Logout - 2018-11-27 8:34:42 AM, User Id: MB01
+Login - 2018-11-27 8:34:48 AM, User Id: ZORE
+Login - 2018-11-27 8:42:11 AM, User Id: MB01
+Logout - 2018-11-27 8:47:27 AM, User Id: MB01
+Login - 2018-11-27 8:47:36 AM, User Id: ZORE
+Login - 2018-11-27 8:54:04 AM, User Id: MB01
+Login - 2018-11-27 9:02:21 AM, User Id: ZORE
+Logout - 2018-11-27 9:02:30 AM, User Id: ZORE
+Login - 2018-11-27 9:02:37 AM, User Id: MB01
+Login - 2018-11-27 9:12:15 AM, User Id: MB01
+Logout - 2018-11-27 9:14:37 AM, User Id: MB01
+Login - 2018-11-27 9:14:41 AM, User Id: ZORE
+Login - 2018-11-27 9:19:55 AM, User Id: ZORE
+Logout - 2018-11-27 9:20:09 AM, User Id: ZORE
+Login - 2018-11-27 9:20:15 AM, User Id: MB01
+Logout - 2018-11-27 9:22:35 AM, User Id: MB01
+Login - 2018-11-27 9:22:42 AM, User Id: ZORE
+Login - 2018-11-27 9:23:23 AM, User Id: ZORE
+Logout - 2018-11-27 9:23:38 AM, User Id: ZORE
+Login - 2018-11-27 9:23:41 AM, User Id: MB01
+Login - 2018-11-27 10:36:38 AM, User Id: MB01
+Login - 2018-11-27 8:36:15 PM, User Id: MB01
+Login - 2018-11-27 8:38:07 PM, User Id: MB01
+Logout - 2018-11-27 8:38:41 PM, User Id: MB01
+Login - 2018-11-27 8:38:48 PM, User Id: MB01
+Login - 2018-11-27 8:39:15 PM, User Id: MB01
+Login - 2018-11-27 8:43:28 PM, User Id: KL03
+Logout - 2018-11-27 8:43:36 PM, User Id: KL03
+Login - 2018-11-27 8:44:03 PM, User Id: KA01
+Logout - 2018-11-27 8:44:39 PM, User Id: KA01
+Login - 2018-11-27 8:44:48 PM, User Id: MB01
+Login - 2018-11-27 8:47:06 PM, User Id: MB01
+Login - 2018-11-27 8:59:42 PM, User Id: KL03
+User Removed- 2018-11-27 9:11:53 PM, Removed User Id: ZORE, Removed by: KL03
+Added User - 2018-11-27 9:12:28 PM, New User Id: HBrown,UserLevel: MIS_MANAGER, Added by: KL03
+Added User - 2018-11-27 9:12:52 PM, New User Id: TMoore,UserLevel: SALES_MANAGER, Added by: KL03
+Added User - 2018-11-27 9:13:22 PM, New User Id: PWang,UserLevel: CONTROLLER, Added by: KL03
+Added User - 2018-11-27 9:15:37 PM, New User Id: MBrown,UserLevel: CLERK, Added by: KL03
+Added User - 2018-11-27 9:15:54 PM, New User Id: JBouchard,UserLevel: CLERK, Added by: KL03
+User Removed- 2018-11-27 9:16:39 PM, Removed User Id: MB01, Removed by: KL03
+User Removed- 2018-11-27 9:16:48 PM, Removed User Id: KA01, Removed by: KL03
+Logout - 2018-11-27 9:18:24 PM, User Id: KL03
+Login - 2018-11-27 9:18:30 PM, User Id: HBrown
+Logout - 2018-11-27 9:18:34 PM, User Id: HBrown
+Login - 2018-11-27 9:18:44 PM, User Id: TMoore
+Logout - 2018-11-27 9:18:50 PM, User Id: TMoore
+Login - 2018-11-27 9:18:59 PM, User Id: PWang
+Logout - 2018-11-27 9:19:09 PM, User Id: PWang
+Login - 2018-11-27 9:19:20 PM, User Id: MBrown
+Logout - 2018-11-27 9:19:26 PM, User Id: MBrown
+Login - 2018-11-27 9:19:32 PM, User Id: JBouchard
+Logout - 2018-11-27 9:19:48 PM, User Id: JBouchard
+Login - 2018-11-27 9:19:59 PM, User Id: PWang
+Login - 2018-11-27 9:33:47 PM, User Id: PWang
+Logout - 2018-11-27 9:36:11 PM, User Id: PWang
+Login - 2018-11-27 9:45:05 PM, User Id: HBrown
+Login - 2018-11-27 9:46:07 PM, User Id: HBrown
+Login - 2018-11-27 9:47:02 PM, User Id: HBrown
+Logout - 2018-11-27 9:47:19 PM, User Id: HBrown
+Login - 2018-11-27 9:48:15 PM, User Id: HBrown
+Login - 2018-11-27 9:56:11 PM, User Id: HBrown
+Login - 2018-11-27 9:57:49 PM, User Id: HBrown
+Login - 2018-11-27 10:08:55 PM, User Id: HBrown
+Login - 2018-11-27 10:09:57 PM, User Id: HBrown
+Login - 2018-11-27 10:11:02 PM, User Id: HBrown
+Login - 2018-11-27 10:11:50 PM, User Id: HBrown
+Login - 2018-11-27 10:28:52 PM, User Id: PWang
+Logout - 2018-11-27 10:30:05 PM, User Id: PWang
+Login - 2018-11-27 10:30:09 PM, User Id: MBrown
+Logout - 2018-11-27 10:30:54 PM, User Id: MBrown
+Login - 2018-11-27 10:30:58 PM, User Id: TMoore
+Login - 2018-11-27 10:42:40 PM, User Id: HBrown
+Login - 2018-11-27 10:45:15 PM, User Id: HBrown
+Login - 2018-11-27 10:45:52 PM, User Id: HBrown
+Logout - 2018-11-27 10:45:58 PM, User Id: HBrown
+Login - 2018-11-27 10:52:26 PM, User Id: HBrown
+Logout - 2018-11-27 10:52:32 PM, User Id: HBrown
+Login - 2018-11-28 7:57:07 AM, User Id: HBrown
+Added User - 2018-11-28 7:57:54 AM, New User Id: MrVen,UserLevel: SALES_MANAGER, Added by: HBrown
+Logout - 2018-11-28 7:58:01 AM, User Id: HBrown
+Login - 2018-11-28 7:58:07 AM, User Id: HBrown
+User Removed- 2018-11-28 7:58:31 AM, Removed User Id: MrVen, Removed by: HBrown
+Logout - 2018-11-28 7:58:45 AM, User Id: HBrown
+Login - 2018-11-28 8:07:39 AM, User Id: HBrown
+Added User - 2018-11-28 8:08:24 AM, New User Id: MrSw,UserLevel: CONTROLLER, Added by: HBrown
+Logout - 2018-11-28 8:08:37 AM, User Id: HBrown
+Login - 2018-11-28 8:08:41 AM, User Id: MrSw
+Logout - 2018-11-28 8:08:46 AM, User Id: MrSw
+Login - 2018-11-28 8:08:51 AM, User Id: HBrown
+Login - 2018-11-28 8:11:47 AM, User Id: MrSw
+Logout - 2018-11-28 8:11:50 AM, User Id: MrSw
+Login - 2018-11-28 8:11:56 AM, User Id: HBrown
+User Removed- 2018-11-28 8:13:49 AM, Removed User Id: MrSw, Removed by: HBrown
+Login - 2018-11-29 7:26:04 PM, User Id: HBrown
+Added User - 2018-11-29 7:26:25 PM, New User Id: MSw,UserLevel: SALES_MANAGER, Added by: HBrown
+Login - 2018-11-29 7:26:50 PM, User Id: MSw
+Logout - 2018-11-29 7:26:56 PM, User Id: MSw
+Login - 2018-11-29 7:27:02 PM, User Id: HBrown
+Login - 2018-11-29 7:37:09 PM, User Id: MSw
+Logout - 2018-11-29 7:37:21 PM, User Id: MSw
+Login - 2018-11-29 7:37:26 PM, User Id: HBrown
+Password Reset- 2018-11-29 7:37:39 PM,User Id: MSw,Reset by: HBrown
+Logout - 2018-11-29 7:37:48 PM, User Id: HBrown
+Login - 2018-11-29 7:37:54 PM, User Id: MSw
+Login - 2018-11-29 8:01:01 PM, User Id: HBrown
+Logout - 2018-11-29 8:01:12 PM, User Id: HBrown
+Login - 2018-11-29 8:01:33 PM, User Id: MBrown
+Logout - 2018-11-29 8:01:48 PM, User Id: MBrown
+Login - 2018-11-29 8:01:55 PM, User Id: TMoore
+Logout - 2018-11-29 8:05:52 PM, User Id: TMoore
+Login - 2018-11-29 8:07:35 PM, User Id: TMoore
+Logout - 2018-11-29 8:08:29 PM, User Id: TMoore
+Login - 2018-11-29 8:08:42 PM, User Id: MBrown
+Login - 2018-11-29 8:12:24 PM, User Id: MBrown
+Login - 2018-11-29 8:14:27 PM, User Id: PWang
+Login - 2018-11-29 9:11:11 PM, User Id: HBrown
+Login - 2018-12-02 1:02:44 AM, User Id: HBrown
+Login - 2018-12-02 1:04:21 AM, User Id: HBrown
+Login - 2018-12-02 7:44:05 PM, User Id: HBrown
+User Removed- 2018-12-02 7:44:27 PM, Removed User Id: MSw, Removed by: HBrown
+Logout - 2018-12-02 7:45:12 PM, User Id: HBrown
+Login - 2018-12-02 7:45:21 PM, User Id: MBrown
+Login - 2018-12-03 12:42:46 PM, User Id: HBrown
+Logout - 2018-12-03 12:52:39 PM, User Id: HBrown
+Login - 2018-12-03 12:52:54 PM, User Id: TMoore
+Logout - 2018-12-03 12:57:52 PM, User Id: TMoore
+Login - 2018-12-03 12:59:35 PM, User Id: PWang
+Logout - 2018-12-03 1:02:56 PM, User Id: PWang
+Login - 2018-12-03 1:03:12 PM, User Id: JBouchard
+Login - 2018-12-04 9:22:34 PM, User Id: MBrown
+Login - 2018-12-04 9:42:26 PM, User Id: HBrown
+Logout - 2018-12-04 9:42:33 PM, User Id: HBrown
+Login - 2018-12-06 8:36:34 AM, User Id: HBrown
+Logout - 2018-12-06 8:39:06 AM, User Id: HBrown
+Login - 2018-12-06 8:39:13 AM, User Id: TMoore
+Logout - 2018-12-06 8:40:47 AM, User Id: TMoore
+Login - 2018-12-06 8:40:59 AM, User Id: PWang
+Logout - 2018-12-06 8:42:21 AM, User Id: PWang
+Login - 2018-12-06 8:42:30 AM, User Id: MBrown
+Logout - 2018-12-06 8:45:04 AM, User Id: MBrown
+Login - 2018-12-06 8:53:30 AM, User Id: MBrown

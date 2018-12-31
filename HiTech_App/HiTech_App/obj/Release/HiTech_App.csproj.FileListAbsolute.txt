@@ -1,0 +1,17 @@
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\bin\Release\HiTech_App.exe.config
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\bin\Release\HiTech_App.exe
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\bin\Release\HiTech_App.pdb
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\bin\Release\HiTech.dll
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\obj\Release\HiTech.GUI.FormChangePwd.resources
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\obj\Release\HiTech.GUI.FormIntro.resources
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\obj\Release\HiTech.GUI.FormIventory.resources
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\obj\Release\HiTech.GUI.FormLogin.resources
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\obj\Release\HiTech.GUI.FormMain.resources
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\obj\Release\HiTech.GUI.FormOrder.resources
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\obj\Release\HiTech.GUI.FormSalesMng.resources
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\obj\Release\HiTech_App.Properties.Resources.resources
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\obj\Release\HiTech_App.csproj.GenerateResource.cache
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\obj\Release\HiTech_App.csproj.CoreCompileInputs.cache
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\obj\Release\HiTech_App.csproj.CopyComplete
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\obj\Release\HiTech_App.exe
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\Final_Project_Package\HiTech_App\HiTech_App\obj\Release\HiTech_App.pdb

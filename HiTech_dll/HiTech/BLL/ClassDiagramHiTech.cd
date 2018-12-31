@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HiTech.BLL.Author">
+    <Position X="15.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEggAABgAAAAAAAAAAAAAAEAAAAAARAACAAAAAg=</HashCode>
+      <FileName>BLL\Author.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HiTech.BLL.AuthorProduct">
+    <Position X="17.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABggAAAgAAAAAAAAAAAAAAEAAAAAARAAAAAQAAA=</HashCode>
+      <FileName>BLL\Author.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HiTech.BLL.Book">
+    <Position X="13.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAggAQAgAAAAAAAJAAAAAAEAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BLL\Book.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HiTech.BLL.Clients">
+    <Position X="7" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAggAAAgBAAAAAQAAAAAAAEAAAAAAQAAAAAAgAA=</HashCode>
+      <FileName>BLL\Clients.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HiTech.BLL.Employee">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEwwAABkEgAAAAIAAAQAAAMEAAACAQAACQAAAAk=</HashCode>
+      <FileName>BLL\Employee.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HiTech.BLL.Order">
+    <Position X="19.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MIQCIBggAAAgARAggAAAIEAAAAFAAACAgQAAgCCAAiA=</HashCode>
+      <FileName>BLL\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiTech.BLL.Product">
+    <Position X="12.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MCAEABAARABAAEAAAAAAAEAAAAAAAAAAAAAIACAgCAA=</HashCode>
+      <FileName>BLL\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiTech.BLL.Software">
+    <Position X="11" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAACggAAAgAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BLL\Software.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HiTech.BLL.StakeHolder">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAAAAAAAAAIJAAACCQAAAAEAgAABAIAAIAAAgA=</HashCode>
+      <FileName>BLL\StakeHolder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiTech.BLL.Suppliers">
+    <Position X="9" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAABggAAAgAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BLL\Suppliers.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HiTech.BLL.User">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAggAwAgAAIAAAAAAAAAAAEAAAAAEQAAAAEIAAA=</HashCode>
+      <FileName>BLL\User.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HiTech.DAL.AuthorDA">
+    <Position X="15.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAggAAAgAAAAAAAAAAAAAAEAAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\AuthorDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiTech.DAL.AuthorProductDA">
+    <Position X="17.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAggAAAgAAAAAAAAAAAAAAEAAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\AuthorDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiTech.DAL.BookDA">
+    <Position X="13.5" Y="12.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="HiTech.DAL.BookDA.SearchBy" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DAL\BookDA.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAggAAAgAAAAAAAIAAAAAAEAAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\BookDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiTech.DAL.ClientsDA">
+    <Position X="7" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAggAAAgAAAAAAAAAAAAAAEAAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\ClientsDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiTech.DAL.EmployeeDA">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="HiTech.DAL.EmployeeDA.SearchBy" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DAL\EmployeeDA.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAggAAAgAAAAAAAAAAAAAAEAAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\EmployeeDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiTech.DAL.OrderDA">
+    <Position X="19.5" Y="12.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="HiTech.DAL.OrderDA.SearchBy" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DAL\OrderDA.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAggAAAgARAAgAAAAAAAAAEAAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\OrderDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiTech.DAL.SoftwareDA">
+    <Position X="11" Y="12.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="HiTech.DAL.SoftwareDA.SearchBy" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DAL\SoftwareDA.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAggAAAgAAAAAAAAAAAAAAEAAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\SoftwareDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiTech.DAL.SuppliersDA">
+    <Position X="9" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAggAAAgAAAAAAAAAAAAAAEAAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\SuppliersDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiTech.DAL.UserDA">
+    <Position X="2.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAggAAAgAAAAAAAAAAAAAAEAAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\UserDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiTech.Security.Login">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="HiTech.Security.Login.UserLevel" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Security\Login.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>GAAAAAAAAQAAQoAEAAIAiAAgAAAEQEIABAAAAAgIABA=</HashCode>
+      <FileName>Security\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiTech.Security.Password">
+    <Position X="4.5" Y="10" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="HiTech.Security.Password.Result" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Security\Password.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAEgAAAgAgAACAAAAgAAAAAEAAEAAAAEIAIAAAAA=</HashCode>
+      <FileName>Security\Password.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="HiTech.BLL.IUser">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAggAAAgAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BLL\IPersonnel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HiTech.BLL.IEmployee">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAggAAAgAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BLL\IPersonnel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HiTech.BLL.IBooks">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAggAAAgAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BLL\IProducts.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HiTech.BLL.ISoftware">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAggAAAgAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BLL\IProducts.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HiTech.BLL.IAuthor">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAggAAAgAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BLL\IProducts.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HiTech.BLL.IAuthorProduct">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAggAAAgAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BLL\IProducts.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HiTech.BLL.IClients">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAggAAAgAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BLL\IStakeHolders.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HiTech.BLL.ISuppliers">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAggAAAgAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BLL\IStakeHolders.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

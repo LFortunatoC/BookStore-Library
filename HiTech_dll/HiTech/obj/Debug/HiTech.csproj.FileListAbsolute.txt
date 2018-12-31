@@ -1,0 +1,8 @@
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\HiTech\HiTech\obj\Debug\HiTech.csprojAssemblyReference.cache
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\HiTech\HiTech\obj\Debug\Interop.EnvDTE.dll
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\HiTech\HiTech\obj\Debug\HiTech.csproj.ResolveComReference.cache
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\HiTech\HiTech\obj\Debug\HiTech.csproj.CoreCompileInputs.cache
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\HiTech\HiTech\bin\Debug\HiTech.dll
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\HiTech\HiTech\bin\Debug\HiTech.pdb
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\HiTech\HiTech\obj\Debug\HiTech.dll
+D:\Fortuna\Documents\LaSalle\Fall_2018\Advanced_Programming\Codes\HiTech\HiTech\obj\Debug\HiTech.pdb
