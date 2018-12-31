@@ -1,7 +1,9 @@
 # BookStore-Library
 This is an example of a C# library of a Bookstore Application
 It uses text and XML files to store and handle data. 
-There is also a login and user level management
+
+There is also a login and user level management.
+
 The project is built using three tiers levels 
 GUI - for graphic interface (App)
 BLL and DAL levels were developted in library project (dll)
